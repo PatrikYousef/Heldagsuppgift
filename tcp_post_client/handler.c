@@ -2,7 +2,6 @@
 #include <stdio.h>
 #include <string.h>
 
-
 void print_handler(const char *data) {
     printf("%s", data);
 }
